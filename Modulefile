@@ -10,4 +10,4 @@ project_page 'UNKNOWN'
 ## Add dependencies, if any:
 dependency 'puppetlabs/apache', '>= 0.9.0'
 dependency 'puppetlabs/mysql', '>= 1.2.0'
-dependency 'puppetlabs/vcsrepo', '>= 1.2.0'
+dependency 'puppetlabs/vcsrepo', '>= 1.0.0'
